@@ -49,20 +49,24 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
+    "bootstrap": "next",
     "compression": "^1.6.2",
     "express": "^4.15.2",
     "immutable": "next",
     "isomorphic-fetch": "^2.2.1",
+    "jquery": "^3.2.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-helmet": "^5.0.3",
     "react-hot-loader": "next",
+    "react-jss": "^6.1.1",
     "react-redux": "^5.0.4",
     "react-router-dom": "^4.1.1",
     "redux": "^3.6.0",
     "redux-actions": "^2.0.2",
     "redux-thunk": "^2.2.0",
     "socket.io": "^1.7.3",
-    "socket.io-client": "^1.7.3"
+    "socket.io-client": "^1.7.3",
+    "tether": "^1.4.0"
   }
 }
